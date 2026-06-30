@@ -1,0 +1,25 @@
+# Maven
+target/
+*.jar
+!src/**/*.jar
+
+# IDE
+.idea/
+*.iml
+.vscode/
+.settings/
+.project
+.classpath
+*.class
+
+# OS
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# Logs
+*.log
+
+# 构建产物
+dist/macS-file-search.jar
+dist/macS.app
